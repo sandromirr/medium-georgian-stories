@@ -30,6 +30,10 @@
 14. [რა არის Domain Driven Design?](https://medium.com/@ggdvalishvili/%E1%83%A0%E1%83%90-%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1-domain-driven-design-5f5a551346b1)
 15. [ამბავი გაყრად Facebook-ისა](https://medium.com/@tatocaster/%E1%83%90%E1%83%9B%E1%83%91%E1%83%90%E1%83%95%E1%83%98-%E1%83%92%E1%83%90%E1%83%A7%E1%83%A0%E1%83%90%E1%83%93-facebook-%E1%83%98%E1%83%A1%E1%83%90-50608f7db62e)
 16. [Docker — Hello world](https://medium.com/@VOBI_IO/docker-hello-world-ecbc2b8d78c) 
+17. [Imposter Syndrome - ანუ რატომ გვგონია თავი თვითმარქვიები](https://medium.com/@tornikegomareli_77607/imposter-syndrome-%E1%83%90%E1%83%9C%E1%83%A3-%E1%83%A0%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9B-%E1%83%92%E1%83%95%E1%83%92%E1%83%9D%E1%83%9C%E1%83%98%E1%83%90-%E1%83%97%E1%83%90%E1%83%95%E1%83%98-%E1%83%97%E1%83%95%E1%83%98%E1%83%97%E1%83%9B%E1%83%90%E1%83%A0%E1%83%A5%E1%83%95%E1%83%98%E1%83%94%E1%83%91%E1%83%98-faee7e707d90)
+18. [Floating point number — Not for dummies](https://medium.com/@niko.peikrishvili/floating-point-number-not-for-dummies-2046f7b1b3f)
+19. [რა არის Buffer Overflow ?](https://medium.com/ka-ge/what-is-buffer-overflow-4f4cc46a3508)
+20. [Python — სტატიკური სტილი](https://medium.com/@aleksikistauri/static-typing-in-python-771893e8c9fb)
 
 #### iOS
 1. [ლაღი, დამოუკიდებელი, მრავალ Cell-ანი UITableView](https://medium.com/@sh.ioramashvili/%E1%83%9A%E1%83%90%E1%83%A6%E1%83%98-%E1%83%93%E1%83%90%E1%83%9B%E1%83%9D%E1%83%A3%E1%83%99%E1%83%98%E1%83%93%E1%83%94%E1%83%91%E1%83%94%E1%83%9A%E1%83%98-%E1%83%9B%E1%83%A0%E1%83%90%E1%83%95%E1%83%90%E1%83%9A-cell-%E1%83%90%E1%83%9C%E1%83%98-uitableview-1b2c80ce14b8)
@@ -49,6 +53,7 @@
 1. [კაცობრიობის მომავალი ხელოვნური ინტელექტის ხანაში (ანუ ათავისუფლე რობოტნი)](https://medium.com/@gmamaladze/%E1%83%99%E1%83%90%E1%83%AA%E1%83%9D%E1%83%91%E1%83%A0%E1%83%98%E1%83%9D%E1%83%91%E1%83%98%E1%83%A1-%E1%83%9B%E1%83%9D%E1%83%9B%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98-%E1%83%AE%E1%83%94%E1%83%9A%E1%83%9D%E1%83%95%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A2%E1%83%98%E1%83%A1-%E1%83%AE%E1%83%90%E1%83%9C%E1%83%90%E1%83%A8%E1%83%98-%E1%83%90%E1%83%9C%E1%83%A3-%E1%83%90%E1%83%97%E1%83%90%E1%83%95%E1%83%98%E1%83%A1%E1%83%A3%E1%83%A4%E1%83%9A%E1%83%94-%E1%83%A0%E1%83%9D%E1%83%91%E1%83%9D%E1%83%A2%E1%83%9C%E1%83%98-8090d1562b12)
 2. [NDA or “you can’t have the same idea”](https://medium.com/@lukachkhetiani/nda-or-you-cant-have-the-same-idea-b4419f184a67)
 3. [Neural Style Transfer Using Tensorflow in Python](https://medium.com/coinmonks/neural-style-transfer-using-tensorflow-in-python-499b39084827)
+4. [Counting Squats with a Simple Convolutional Neural Network](https://medium.com/@levansanadiradze/counting-squats-with-a-simple-convolutional-neural-network-5613a9668fa1)
 
 #### GDD
 1. [Google Developer Days — Europe, Krakow 2017 (დღე 1)](https://medium.com/emoney-engineering/google-developer-days-europe-krakow-2017-%E1%83%93%E1%83%A6%E1%83%94-1-8397cca96bb6)
